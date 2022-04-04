@@ -51,7 +51,7 @@
 <script>
 import PreviewCtn from "@/components/Container/PreviewCtn";
 import DecorateCtn from "@/components/Container/DecorateCtn";
-import SearchBar from "../../../../h5/components/SearchBar.vue";
+import SearchBar from "./SearchBar.vue";
 import { mapGetters } from "vuex";
 
 export default {

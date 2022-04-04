@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品搜索组件
- * @Autor: WangYuan
- * @Date: 2021-06-11 13:50:32
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-17 17:44:10
 -->
 <template>
   <div>

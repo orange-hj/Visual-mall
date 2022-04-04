@@ -1,9 +1,5 @@
 <!--
  * @Description: 页面导航组件
- * @Autor: WangYuan
- * @Date: 2021-06-10 20:05:23
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-26 11:29:24
 -->
 <template>
   <ul class="tabs" :style="getTabsStyle()">

@@ -72,7 +72,7 @@
 <script>
 import PreviewCtn from "@/components/Container/PreviewCtn";
 import DecorateCtn from "@/components/Container/DecorateCtn";
-import NavBar from "../../../../h5/components/NavBar.vue";
+import NavBar from "./NavBar.vue";
 import IconSelect from "@/components/IconSelect";
 import { mapGetters } from "vuex";
 
