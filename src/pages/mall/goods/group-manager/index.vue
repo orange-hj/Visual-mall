@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品分类管理
- * @Autor: WangYuan
- * @Date: 2021-09-07 11:49:30
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 10:45:13
 -->
 <template>
   <div class="m20 p20 bg-white">

@@ -1,9 +1,5 @@
 /*
  * @Description: 全局方法注册
- * @Autor: WangYuan
- * @Date: 2021-03-31 20:00:34
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-29 16:49:44
  */
 
 export default {

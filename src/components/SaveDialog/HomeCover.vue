@@ -1,9 +1,5 @@
 <!--
  * @Description: 首页封面
- * @Autor: WangYuan
- * @Date: 2021-09-27 17:45:38
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-26 11:05:40
 -->
 <template>
   <el-dialog

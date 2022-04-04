@@ -1,9 +1,5 @@
 <!--
  * @Description: 登录
- * @Autor: WangYuan
- * @Date: 2021-08-18 11:19:34
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-15 17:03:44
 -->
 <template>
   <div class="login">

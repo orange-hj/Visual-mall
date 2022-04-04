@@ -1,10 +1,4 @@
-/*
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-03-24 16:07:46
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-07-02 15:40:52
- */
+
 import Vue from 'vue'
 import axios from 'axios'
 import store from '@/store'

@@ -1,10 +1,4 @@
-<!--
- * @Description: 图标选择组件
- * @Autor: WangYuan
- * @Date: 2021-08-23 09:44:05
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 10:56:30
--->
+
 <template>
   <div class="IconSelect">
 

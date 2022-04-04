@@ -1,9 +1,5 @@
 /*
  * @Description: 用户数据管理
- * @Autor: WangYuan
- * @Date: 2021-05-19 09:49:33
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-15 17:13:13
  */
 import {
   setAuthToken,

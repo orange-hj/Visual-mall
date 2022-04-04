@@ -1,9 +1,5 @@
 <!--
  * @Description: 页面构建
- * @Autor: WangYuan
- * @Date: 2021-05-19 09:49:33
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-09 15:37:04
 -->
 <template>
   <div class="home">

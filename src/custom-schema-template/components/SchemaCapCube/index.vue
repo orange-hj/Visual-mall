@@ -1,9 +1,5 @@
 <!--
  * @Description: 魔方多维布局配置
- * @Autor: WangYuan
- * @Date: 2021-06-03 13:59:00
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 15:42:22
 -->
 <template>
   <div>

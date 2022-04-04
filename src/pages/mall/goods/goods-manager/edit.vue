@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-08-17 10:18:09
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-08 20:50:34
--->
+
 <template>
   <div class="m20 p20 bg-white">
     <el-form

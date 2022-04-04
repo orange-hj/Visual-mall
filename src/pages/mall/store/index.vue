@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品菜单
- * @Autor: WangYuan
- * @Date: 2021-06-10 16:00:34
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-28 10:45:45
 -->
 <template>
   <SideBar :groups='groups'></SideBar>

@@ -1,9 +1,5 @@
 <!--
  * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-05-25 14:41:42
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-08-16 15:34:47
 -->
 <template>
   <div class="decorate">

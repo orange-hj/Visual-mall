@@ -1,9 +1,5 @@
 <!--
  * @Description: 预览容器
- * @Autor: WangYuan
- * @Date: 2021-05-25 14:55:42
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-05-26 16:26:10
 -->
 <template>
   <div class="PreviewCtn">

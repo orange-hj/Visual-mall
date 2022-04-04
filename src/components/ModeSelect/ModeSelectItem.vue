@@ -1,9 +1,5 @@
 <!--
  * @Description: 模板单项组件
- * @Autor: WangYuan
- * @Date: 2021-05-31 11:55:13
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 10:54:27
 -->
 <template>
   <el-tooltip

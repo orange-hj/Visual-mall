@@ -1,9 +1,5 @@
 <!--
  * @Description: 商城页面
- * @Autor: WangYuan
- * @Date: 2021-06-10 16:01:02
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-29 16:24:02
 -->
 <template>
   <div class="body">

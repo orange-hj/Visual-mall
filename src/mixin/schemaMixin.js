@@ -1,10 +1,4 @@
-/*
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-09-24 10:19:13
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-12 16:57:32
- */
+
 export default {
     props: {
         id:{},

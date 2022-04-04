@@ -1,9 +1,5 @@
 <!--
  * @Description: 轮播组件
- * @Autor: WangYuan
- * @Date: 2021-06-01 15:04:57
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-27 19:16:38
 -->
 <template>
 <div :style="$getWrapStyle(styles)">

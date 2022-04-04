@@ -1,9 +1,5 @@
 <!--
  * @Description: 模板选择容器组件
- * @Autor: WangYuan
- * @Date: 2021-05-31 11:54:32
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-18 20:03:21
 -->
 <template>
   <div

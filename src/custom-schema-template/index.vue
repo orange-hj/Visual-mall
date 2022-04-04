@@ -1,9 +1,5 @@
 <!--
  * @Description: 属性组件配置模板
- * @Autor: WangYuan
- * @Date: 2021-09-23 20:10:52
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-12 16:31:13
 -->
 <template>
   <ul>

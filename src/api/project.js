@@ -1,9 +1,5 @@
 /*
  * @Description: 项目管理api
- * @Autor: WangYuan
- * @Date: 2021-09-22 15:51:56
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-27 17:26:15
  */
 import request from '@/utils/request'
 

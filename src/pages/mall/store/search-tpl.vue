@@ -1,9 +1,5 @@
 <!--
  * @Description: 搜索模板配置
- * @Autor: WangYuan
- * @Date: 2021-06-10 19:31:01
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 11:05:54
 -->
 <template>
   <div class="wrap">

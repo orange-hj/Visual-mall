@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-09-24 09:11:38
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-27 20:44:52
--->
+
 <template>
   <config-wrap :title="label">
     <div class="mb10 f-grey f12">{{ mOptions.note }}</div>

@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-08-19 15:10:03
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-08 16:02:28
--->
+
 <template>
   <div class="flex flex-wrap">
     <div

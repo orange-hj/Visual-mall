@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-08-12 17:23:08
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-08-31 20:12:08
--->
+
 <template>
   <el-dialog
     title="请选择跳转页面"

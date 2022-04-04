@@ -1,9 +1,5 @@
 <!--
  * @Description: PC头部菜单
- * @Autor: WangYuan
- * @Date: 2021-05-19 14:07:29
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-15 17:09:06
 -->
 <template>
   <div>

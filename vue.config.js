@@ -1,10 +1,4 @@
-/*
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-05-19 10:53:33
- * @LastEditors: WangYuan
- * @LastEditTime: 2022-01-26 11:20:47
- */
+
 const path = require('path')
 const sftpUploader = require('sftp-uploader')
 const productionGzipExtensions = ['js', 'css']

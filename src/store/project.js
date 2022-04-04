@@ -1,9 +1,5 @@
 /*
  * @Description: 项目数据管理
- * @Autor: WangYuan
- * @Date: 2021-05-21 17:32:57
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-01 10:18:23
  */
 import { fixedPages } from '@/config/project'
 import { getProject, settingProject, removeProject } from '@/utils/auth'

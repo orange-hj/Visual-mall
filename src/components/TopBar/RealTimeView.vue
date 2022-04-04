@@ -1,9 +1,5 @@
 <!--
  * @Description: 实时预览弹窗
- * @Autor: WangYuan
- * @Date: 2021-07-05 17:05:21
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-16 15:57:11
 -->
 <template>
   <div class="RealTimeView">

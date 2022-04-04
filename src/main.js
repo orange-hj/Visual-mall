@@ -1,10 +1,4 @@
-/*
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-05-19 09:49:33
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-10 11:22:18
- */
+
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'

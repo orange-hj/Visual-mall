@@ -1,9 +1,5 @@
 <!--
  * @Description: 搜索组件
- * @Autor: WangYuan
- * @Date: 2021-09-02 20:45:20
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 19:56:02
 -->
 <template>
   <div class="search" :style="$getComponentStyle(this.styles)">

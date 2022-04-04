@@ -1,9 +1,5 @@
 /*
  * @Description: 项目配置数据
- * @Autor: WangYuan
- * @Date: 2021-08-31 19:57:35
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-15 15:29:47
  */
 
 // 固定页面集合

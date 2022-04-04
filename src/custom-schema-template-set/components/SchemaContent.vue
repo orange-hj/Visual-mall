@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-12 17:58:45
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-12 17:16:36
--->
+
 <template>
   <div class="canvas">
     <!-- centet -->

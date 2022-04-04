@@ -1,9 +1,5 @@
 <!--
  * @Description: 保存
- * @Autor: WangYuan
- * @Date: 2021-09-27 16:53:55
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-15 16:24:51
 -->
 <template>
   <el-dialog :visible.sync="show" width="40%" top="300px">

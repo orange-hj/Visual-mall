@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-14 09:45:07
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-15 14:10:09
--->
+
 <template>
   <draggable
     v-model="list"

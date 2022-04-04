@@ -1,9 +1,5 @@
 <!--
  * @Description: 拖拽画板
- * @Autor: WangYuan
- * @Date: 2021-05-21 18:19:29
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-20 20:52:13
 -->
 <template>
   <div

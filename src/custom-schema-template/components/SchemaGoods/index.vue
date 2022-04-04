@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-08 15:37:03
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 16:19:21
--->
+
 <template>
   <config-item :label="label">
     <GoodsConfigList :value="mValue" @edit="edit"></GoodsConfigList>

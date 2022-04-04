@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-21 15:15:22
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 20:15:41
--->
+
 <template>
   <div class="SchemaComponent">
     <config-wrap title="组件配置">

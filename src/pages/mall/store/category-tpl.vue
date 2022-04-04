@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品分类模板配置
- * @Autor: WangYuan
- * @Date: 2021-09-08 19:37:59
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 10:42:18
 -->
 <template>
   <div class="categoryTpl m20 p20 bg-white">

@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品组件
- * @Autor: WangYuan
- * @Date: 2021-05-21 19:13:20
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-28 13:53:21
 -->
 <template>
 <div :style="$getWrapStyle(styles)">

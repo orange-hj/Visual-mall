@@ -1,9 +1,5 @@
 <!--
  * @Description: 物料列表 （可拖拽）
- * @Autor: WangYuan
- * @Date: 2021-05-19 10:41:34
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-09 15:45:36
 -->
 
 <template>

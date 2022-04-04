@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-06-01 08:57:21
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-06-07 09:34:04
--->
+
 <template>
   <div class="wrap">
     <div class="wrap-label">{{mValue?trueLabel:falseLabel}}</div>

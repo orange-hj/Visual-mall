@@ -1,10 +1,4 @@
-<!--
- * @Description: 模板商城
- * @Autor: WangYuan
- * @Date: 2021-09-28 17:23:56
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-16 16:34:09
--->
+
 <template>
   <div class="wrap">
     <!-- 行业分类 -->

@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-08 16:29:43
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-12 17:13:16
--->
+
 <template>
   <div class="schema">
     <ul class="schema-head">

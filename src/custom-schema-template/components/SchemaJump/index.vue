@@ -1,9 +1,5 @@
 <!--
  * @Description: 页面跳转选择组件
- * @Autor: WangYuan
- * @Date: 2021-08-12 11:06:37
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-26 19:38:10
 -->
 
 <template>

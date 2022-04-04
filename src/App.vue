@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-05-19 09:49:33
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-02 19:17:46
--->
+
 <template>
   <div id="app">
     <router-view />

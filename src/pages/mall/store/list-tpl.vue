@@ -1,9 +1,5 @@
 <!--
  * @Description: 商品列表模板配置
- * @Autor: WangYuan
- * @Date: 2021-09-08 19:37:59
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-17 14:24:01
 -->
 <template>
   <div class="listTpl m20 p20 bg-white">

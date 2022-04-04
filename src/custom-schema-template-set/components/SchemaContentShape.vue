@@ -1,9 +1,5 @@
 <!--
  * @Description: 画板组件容器 （配置工具栏）
- * @Autor: WangYuan
- * @Date: 2021-05-24 16:37:58
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 18:13:00
 -->
 <template>
   <div class="shape" @click.stop="setcurComponent(data)" ref="shape">

@@ -1,9 +1,5 @@
 <!--
  * @Description: 内部侧边菜单
- * @Autor: WangYuan
- * @Date: 2021-06-10 16:00:34
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-18 10:50:37
 -->
 <template>
   <div class="flex h-100">

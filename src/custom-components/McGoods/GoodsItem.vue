@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-06-07 11:21:54
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-05 15:20:27
--->
+
 <template>
   <div
     :style="getStyle('wrap')"

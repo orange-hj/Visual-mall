@@ -1,9 +1,5 @@
 <!--
  * @Description: 空格组件
- * @Autor: WangYuan
- * @Date: 2021-05-21 19:13:20
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-25 20:28:24
 -->
 <template>
   <div :style="$getWrapStyle(styles)">

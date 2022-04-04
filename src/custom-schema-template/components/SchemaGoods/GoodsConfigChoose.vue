@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-06-24 10:29:52
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-08 16:05:41
--->
+
 <template>
   <el-dialog
     title="选择商品"

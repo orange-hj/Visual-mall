@@ -1,9 +1,5 @@
 <!--
  * @Description: 自定义点选布局
- * @Autor: WangYuan
- * @Date: 2021-06-02 14:18:38
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-29 16:26:54
 -->
 <template>
   <div class="wrap">

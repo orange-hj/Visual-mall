@@ -1,9 +1,5 @@
 <!--
  * @Description: 商城导航
- * @Autor: WangYuan
- * @Date: 2021-06-10 19:31:01
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-09-28 10:45:49
 -->
 <template>
   <div class="wrap">

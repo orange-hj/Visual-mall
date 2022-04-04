@@ -1,9 +1,5 @@
 <!--
  * @Description: 公告组件
- * @Autor: WangYuan
- * @Date: 2021-06-10 10:52:36
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-10-22 15:44:15
 -->
 <template>
   <div>

@@ -1,9 +1,5 @@
 /*
  * @Description: 文件上传
- * @Autor: WangYuan
- * @Date: 2021-07-05 14:20:22
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-12-13 17:26:03
  */
 
 const sftpUploader = require('sftp-uploader')

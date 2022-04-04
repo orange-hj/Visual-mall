@@ -1,10 +1,4 @@
-<!--
- * @Description: What's this for
- * @Autor: WangYuan
- * @Date: 2021-10-18 10:07:46
- * @LastEditors: WangYuan
- * @LastEditTime: 2021-11-15 14:21:39
--->
+
 <template>
   <el-dialog title="导出" :visible.sync="show" width="40%">
     <div>
